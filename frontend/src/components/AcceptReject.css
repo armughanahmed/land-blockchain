@@ -1,0 +1,24 @@
+#accept-reject .card{
+    background-color:#1e2c3d;
+    margin-top: 35px;
+    padding: 25px;
+}
+
+#accept-reject label {
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+#accept-reject p{
+    color: white;
+}
+
+#accept-reject li{
+    color: white
+}
+
+#accept-reject strong{
+    color: rgb(255, 145, 0);
+    font-weight: 400;
+}

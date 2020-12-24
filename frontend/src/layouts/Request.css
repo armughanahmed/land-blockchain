@@ -1,0 +1,27 @@
+#request .card{
+    background-color:#1e2c3d;
+    margin-top: 35px;
+    padding: 25px;
+}
+
+#request label{
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+#request input{
+    background-color: rgb(238, 237, 237);
+}
+
+#request select{
+    background-color: rgb(238, 237, 237);
+}
+
+#request textarea{
+    background-color: rgb(238, 237, 237);
+}
+
+#error{
+    color: orange;
+}

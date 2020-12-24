@@ -1,0 +1,15 @@
+#add-land .card{
+    background-color:#1e2c3d;
+    margin-top: 35px;
+    padding: 25px;
+}
+
+#add-land label {
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+#me p{
+    color: rgb(255, 132, 0);
+}

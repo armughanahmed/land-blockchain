@@ -1,0 +1,13 @@
+#request-token .card{
+    background-color:#1e2c3d;
+    margin-top: 35px;
+    padding: 45px;
+}
+
+#request-token label{
+    color: white;
+}
+
+#request-token span{
+    color: white;
+}

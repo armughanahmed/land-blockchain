@@ -1,0 +1,25 @@
+nav{
+    background-color:  #1e2c3d;
+    
+}
+h2{
+    color: white;
+    padding-left: 15px;
+    padding-top: 20px;
+}
+a{
+    color: white;
+}
+.nav-link:active{
+    color: aliceblue;
+}
+.nav-link:hover {
+    transition: 1.2s;
+    color: rgb(212, 212, 212);
+}
+
+#logout{
+    color: white;
+    background-color: #1E2C3D;
+}
+

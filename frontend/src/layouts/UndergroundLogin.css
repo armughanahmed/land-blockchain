@@ -1,0 +1,20 @@
+#admin-log h3{
+    text-align: center;
+    color: white;
+}
+
+
+
+#admin-log .card{
+    background-color:#1e2c3d;
+    margin-top: 35px;
+    padding: 45px;
+}
+
+#admin-log label{
+    color: white;
+}
+
+#admin-log span{
+    color: white;
+}

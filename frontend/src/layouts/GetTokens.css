@@ -1,0 +1,19 @@
+#get-token .card{
+    background-color:#1e2c3d;
+    margin-top: 35px;
+    padding: 25px;
+}
+
+#get-token label {
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+#get-token input{
+    background-color: rgb(238, 237, 237);
+}
+
+#success-message p{
+    color: rgb(255, 166, 0);
+}

@@ -1,0 +1,19 @@
+#check-request .card{
+    background-color:#1e2c3d;
+    margin-top: 35px;
+    padding: 25px;
+}
+
+#check-request label {
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+#check-request p{
+    color: white;
+}
+
+#check-request li{
+    color: white
+}

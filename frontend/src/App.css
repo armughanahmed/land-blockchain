@@ -13,6 +13,24 @@
   }
 }
 
+.page-container{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #0f1529;
+}
+
+.container-wrap{
+  flex: 1;
+}
+
+.btn-custom{
+  background-color: rgb(255, 166, 0);
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-weight: 600;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
